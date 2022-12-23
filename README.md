@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=98FB98&height=300&section=header&text=Hyeok-kong&fontSize=100)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Kong's%20Github&fontSize=80&)
 
 <h3 align="center"> Languages that I've used </p> &nbsp
 
@@ -14,7 +14,6 @@
 
 Kong's Blog  &nbsp;
 <a href="https://velog.io/@hyeok-kong"><img src="https://img.shields.io/badge/Blog-3CB371?style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@hyeok-kong"/></a>
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=98FB98&height=200&section=footer)
 
 
 <!--
