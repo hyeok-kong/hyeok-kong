@@ -1,4 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Kong's%20Github&fontSize=80&)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=khb6997)](https://solved.ac/khb6997/)
+
+
+
 <h3 align="center"> ▶️ Languages that I've used ◀️ </p> &nbsp
 
 <p align="center">
