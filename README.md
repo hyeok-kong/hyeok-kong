@@ -3,7 +3,9 @@
 ## 🧑‍💻 About me
 - **Spring framework**를 주로 다루고 있어요.
 - 제 **개발 인생과 가치관**은 [이곳](https://velog.io/@hyeok-kong/F-Lab-%EB%A9%98%ED%86%A0%EB%A7%81%EC%9D%84-%EC%A7%84%ED%96%89%ED%95%98%EB%A9%B0)에서 볼 수 있어요! 멘토링 후기지만, 저를 가장 잘 표현한 글입니다. 😄
-- **개발 블로그**를 운영하고 있어요. `공부한 내용` , `문제 & 해결` , 그리고 `개발에 대한 제 생각` 을 주로 적는답니다. :point_right: <a href="https://velog.io/@hyeok-kong"><img src="https://img.shields.io/badge/Kong.log-3CB371?style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@hyeok-kong"/></a> :point_left:
+- **개발 블로그** :point_right: <a href="https://velog.io/@hyeok-kong"><img src="https://img.shields.io/badge/Kong.log-3CB371?style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@hyeok-kong"/></a> :point_left: 를 운영하고 있어요. `공부한 내용` , `문제 & 해결` , 그리고 `개발에 대한 제 생각` 을 주로 적는답니다.
+
+
 
 ## 🛠️ Tech Stack
 - **즐겨 사용하는 :** ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white) ![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=flat&logo=spring&logoColor=white) ![QueryDSL](https://img.shields.io/badge/QueryDSL-6DB33F?style=flat&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
